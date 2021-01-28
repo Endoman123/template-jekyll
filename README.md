@@ -1,2 +1,2 @@
-# making-design
-Making Design by Jess Thorning - Static Site 
+# template-jekyll
+Jekyll template for static sites
